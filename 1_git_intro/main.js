@@ -1,3 +1,3 @@
 function myFunction() {
-    console.log("myFunction was called!");
+    console.log("Liz was here!");
 }
